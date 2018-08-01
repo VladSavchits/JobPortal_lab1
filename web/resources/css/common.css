@@ -1,0 +1,106 @@
+body {
+    background-color: #eee;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+
+.form-signin .checkbox {
+    font-weight: normal;
+}
+
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input {
+    margin-top: 10px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin button {
+    margin-top: 10px;
+}
+
+.has-error {
+    color: red
+}
+
+h1 {
+    font-size: 36px;
+}
+
+#header-event {
+    background: #FFA500;
+    padding: 10px;
+}
+
+#header-news {
+    background: #32CD32;
+    padding: 10px;
+}
+
+#sidebar {
+    float: left;
+    width: 20%;
+}
+
+#content {
+    margin: 10px 5px 20px 25%;
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+#block {
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    background: #000;
+    color: #fff;
+    width: 100%;
+}
+
+
+.btn-search {
+    background: #A020F0;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #A020F0;
+}
+
+.btn-search:link, .btn-search:visited {
+    color: #fff;
+}
+
+.btn-search:active, .btn-search:hover {
+    background: #8B4513;
+    border-color: #8B4513;
+    color: #fff;
+}

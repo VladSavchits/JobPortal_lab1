@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>QueriesMapUtil.getQuery (by.bsuir.jobproject.util.map)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getQuery").withParameters("java.lang.String").definedInClass("by.bsuir.jobproject.util.map.QueriesMapUtil"))]]></place>
+    </injection>
+  </component>
+</project>
